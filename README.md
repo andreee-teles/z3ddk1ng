@@ -12,5 +12,5 @@ ou se preferir me chame pelo linkedin :)   --> https://www.linkedin.com/in/andrÃ
 
 <div>
   <a href="https://beacons.ai/z3ddk1ng"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3ddk1ng&layout=compact&langs_count=16&theme=dracula"/>)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3ddk1ng&layout=compact&langs_count=16&theme=dracula"/>)
 </div>
