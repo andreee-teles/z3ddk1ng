@@ -3,10 +3,10 @@
 </h1>
 <p>👀 Busco vagas em TI, particularmente em desenvolvimento web! :D</p>
 <p>🌱 Atualmente estou buscando aprimorar minhas habilidades em:
-  <li>*HTML5</li>
-  <li>*CSS3</li>
-  <li>*JavaScript</li>
-  <li>*Python3</li><p>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Python3</li><p>
 <p>📫 Como entrar em contato: teles327@gmail.com
 ou se preferir me chame pelo linkedin :)   --> https://www.linkedin.com/in/andré-teles-856047185/<p>
 
