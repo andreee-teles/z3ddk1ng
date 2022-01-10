@@ -7,7 +7,7 @@
   <li>CSS3</li>
   <li>JavaScript</li>
   <li>Python3</li><p>
-<p>📫 Como entrar em contato: teles327@gmail.com
+<p>📫 Como entrar em contato: <strong>teles327@gmail.com</strong>
 ou se preferir me chame pelo linkedin :)   --> https://www.linkedin.com/in/andré-teles-856047185/<p>
 
 <div>
