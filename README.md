@@ -12,7 +12,6 @@
 
 
 <div>
-  <a href="https://beacons.ai/z3ddk1ng"> 
   <img src="https://github-readme-stats.vercel.app/api?username=z3ddk1ng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3ddk1ng&layout=compact&langs_count=16&theme=dracula">
 </div>
