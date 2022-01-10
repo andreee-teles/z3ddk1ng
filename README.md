@@ -9,6 +9,6 @@
 ou se preferir me chame pelo linkedin :)   --> https://www.linkedin.com/in/andré-teles-856047185/
 
 <div>
-  <a href="https://beacons.ai/z3ddk1ng">
-  <img height="180em" (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
+  <a href="https://beacons.ai/z3ddk1ng"> 
+  <img height="180em" (https://github-readme-stats.vercel.app/api/top-langs/?username=z3ddk1ng)
 </div>
