@@ -5,6 +5,7 @@
 <p>🌱 Atualmente estou buscando aprimorar minhas habilidades em:
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>Python3</li><p>
 <p>📫 Como entrar em contato: <strong>teles327@gmail.com</strong>
