@@ -1,4 +1,6 @@
-- 👋 Helloooo, me chamo André
+<h1 align="center">
+👋 Helloooo, me chamo André
+</h1>
 - 👀 Busco vagas em TI, particularmente em desenvolvimento web! :D
 - 🌱 Atualmente estou buscando aprimorar minhas habilidades em:
   *HTML5
