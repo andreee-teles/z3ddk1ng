@@ -8,7 +8,8 @@
   <li>Bootstrap <img align="center" alt="bootstrap" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></li>
   <li>JavaScript <img align="center" alt="javascript" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></li>
   <li>Python3 <img align="center" alt="python" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></li><p>
-<p>📫 Como entrar em contato: <strong>teles327@gmail.com</strong>
+<p>📫 Como entrar em contato: <strong>teles327@gmail.com</strong> </p>
+<p>📫https://www.linkedin.com/in/andré-teles-856047185/</p>
 
 
 <div>
